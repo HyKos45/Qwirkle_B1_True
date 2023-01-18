@@ -20,7 +20,7 @@ int main(int argc, const char * argv[])
       printf("1.Choix 1 : Plateau\n"
              "2.Choix 2\n"
              "3.Choix 3\n"
-             "4.Quitter\n");
+             "4.Quitter \n");
 
       c = getchar();
 
